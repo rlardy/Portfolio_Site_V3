@@ -8,7 +8,6 @@ import Navbar from './components/Navbar';
 import Home from './contents/Home.jsx';
 import About from './contents/About';
 import Education from './contents/Education';
-import Skills from './contents/Skills';
 import Contact from './contents/Contact';
 import Experience from './contents/Experience';
 import Resume from './contents/Resume';
