@@ -14,7 +14,7 @@ class About extends Component {
                 and I am now 22 years old. I am a talented individual with strong communication skills, team spirit, and B.S. in Computer Engineering from the University of Wisconsin-Madison.
                 </p>
                 <br></br>
-                <p>I am in search of a full-time position as a Software Engineer. I Bring expertise in writing full-stack code to support multiple
+                <p>I am in search of a full-time position as a Software Engineer. I bring expertise in writing full-stack code to support multiple
                 platforms, including web, android, and iOS, and a solid grasp of algorithms, databases, data structures,
                 and object-oriented designs. I have quality experience using industry-standard technologies, and am excited to join the workforce after college.
             </p>
